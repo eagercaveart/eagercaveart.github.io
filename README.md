@@ -4,4 +4,4 @@ Check out my newest "concept" app, it is small and simple, but I like to try new
 
 [Calculator With Achievements on Google Play](https://play.google.com/store/apps/details?id=com.eagercaveart.calculatorwithachievements)
 
-<img src="/calculator.png" width="270" height="480"><img src="/calculator2.png" width="270" height="480">
+<img src="/calculator.png" width="270" height="480"> <img src="/calculator2.png" width="270" height="480">
