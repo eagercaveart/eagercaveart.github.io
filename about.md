@@ -1,4 +1,4 @@
-I’m currently learning Java and it is a good idea to release some apps, to have a little portfolio. Nothing too big or complicated, because my focus is on the learning the basics very well of the language, so the Android app development is a side thing. My goal is to reach the knowledge needed to be employable as a fulltime developer.
+I’m currently learning Java and it is a good idea to release some apps, to have a little portfolio. Nothing too big or complicated, because my focus is learning the basics very well of the language, so the Android app development is a side thing. My goal is to reach the knowledge needed to be employable as a fulltime developer.
 
 Not so long before, I made the mistake of making programs, without proper basic knowledge. I even made my thesis app for university that way. It worked well functionality, but the code was a mess. Also, in my previous jobs the coding sadly was never the priority, so when I needed to develop it was always something small in random languages.
 
